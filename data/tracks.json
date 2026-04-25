@@ -1,0 +1,470 @@
+[
+  {
+    "id": "brands-hatch-grand-prix-circuit",
+    "name": "Brands Hatch",
+    "configuration": "Grand Prix Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/a/a3/FM23_Brands_Hatch_Promo_1.jpg/revision/latest?cb=20250406194819"
+  },
+  {
+    "id": "brands-hatch-indy-circuit",
+    "name": "Brands Hatch",
+    "configuration": "Indy Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/a/a3/FM23_Brands_Hatch_Promo_1.jpg/revision/latest?cb=20250406194819"
+  },
+  {
+    "id": "circuit-de-barcelona-catalunya-grand-prix-circuit",
+    "name": "Circuit de Barcelona-Catalunya",
+    "configuration": "Grand Prix Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/ce/FM3_Catalunya.jpg/revision/latest?cb=20231227162511"
+  },
+  {
+    "id": "circuit-de-barcelona-catalunya-national-circuit",
+    "name": "Circuit de Barcelona-Catalunya",
+    "configuration": "National Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/ce/FM3_Catalunya.jpg/revision/latest?cb=20231227162511"
+  },
+  {
+    "id": "circuit-de-barcelona-catalunya-school-circuit",
+    "name": "Circuit de Barcelona-Catalunya",
+    "configuration": "School Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/ce/FM3_Catalunya.jpg/revision/latest?cb=20231227162511"
+  },
+  {
+    "id": "circuit-de-spa-francorchamps-full-circuit",
+    "name": "Circuit de Spa-Francorchamps",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/1/12/FM23_Circuit_De_Spa_Francorchamps_Promo.jpg/revision/latest?cb=20251208074635"
+  },
+  {
+    "id": "daytona-international-speedway-sports-car-circuit",
+    "name": "Daytona International Speedway",
+    "configuration": "Sports Car Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/e/e5/FM23_Daytona_Promo_1.jpg/revision/latest?cb=20250406193820"
+  },
+  {
+    "id": "daytona-international-speedway-tri-oval-circuit",
+    "name": "Daytona International Speedway",
+    "configuration": "Tri-oval Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/e/e5/FM23_Daytona_Promo_1.jpg/revision/latest?cb=20250406193820"
+  },
+  {
+    "id": "eaglerock-speedway-club-circuit",
+    "name": "Eaglerock Speedway",
+    "configuration": "Club Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/07/FM23_Eaglerock_Screenshot1.jpg/revision/latest?cb=20250123170021"
+  },
+  {
+    "id": "eaglerock-speedway-oval-circuit",
+    "name": "Eaglerock Speedway",
+    "configuration": "Oval Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/07/FM23_Eaglerock_Screenshot1.jpg/revision/latest?cb=20250123170021"
+  },
+  {
+    "id": "fujimi-kaido-full-circuit",
+    "name": "Fujimi Kaido",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/ca/FM23_Fujimi_Kaido_Track_Logo.png/revision/latest?cb=20250622194240"
+  },
+  {
+    "id": "fujimi-kaido-full-circuit-reverse",
+    "name": "Fujimi Kaido",
+    "configuration": "Full Circuit Reverse",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/ca/FM23_Fujimi_Kaido_Track_Logo.png/revision/latest?cb=20250622194240"
+  },
+  {
+    "id": "grand-oak-raceway-club-circuit",
+    "name": "Grand Oak Raceway",
+    "configuration": "Club Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/e/e0/FM23_Grand_Oak_Screenshot1.jpg/revision/latest?cb=20250123171734"
+  },
+  {
+    "id": "grand-oak-raceway-national-circuit",
+    "name": "Grand Oak Raceway",
+    "configuration": "National Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/e/e0/FM23_Grand_Oak_Screenshot1.jpg/revision/latest?cb=20250123171734"
+  },
+  {
+    "id": "hakone-circuit-club-circuit",
+    "name": "Hakone Circuit",
+    "configuration": "Club Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/c6/FM23_Hakone_Screenshot1.jpg/revision/latest?cb=20250123173023"
+  },
+  {
+    "id": "hakone-circuit-grand-prix-circuit",
+    "name": "Hakone Circuit",
+    "configuration": "Grand Prix Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/c6/FM23_Hakone_Screenshot1.jpg/revision/latest?cb=20250123173023"
+  },
+  {
+    "id": "hockenheimring-full-circuit",
+    "name": "Hockenheimring",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/8b/FM23_Hockenheimring.png/revision/latest?cb=20251001022941"
+  },
+  {
+    "id": "hockenheimring-national-circuit",
+    "name": "Hockenheimring",
+    "configuration": "National Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/8b/FM23_Hockenheimring.png/revision/latest?cb=20251001022941"
+  },
+  {
+    "id": "hockenheimring-short-circuit",
+    "name": "Hockenheimring",
+    "configuration": "Short Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/8b/FM23_Hockenheimring.png/revision/latest?cb=20251001022941"
+  },
+  {
+    "id": "homestead-miami-speedway-road-circuit",
+    "name": "Homestead-Miami Speedway",
+    "configuration": "Road Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/e/e5/FM23_Homestead_Miami_Promo.jpg/revision/latest?cb=20251208075753"
+  },
+  {
+    "id": "homestead-miami-speedway-speedway",
+    "name": "Homestead-Miami Speedway",
+    "configuration": "Speedway",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/e/e5/FM23_Homestead_Miami_Promo.jpg/revision/latest?cb=20251208075753"
+  },
+  {
+    "id": "indianapolis-motor-speedway-grand-prix-circuit",
+    "name": "Indianapolis Motor Speedway",
+    "configuration": "Grand Prix Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/f/f1/FM5_Indianapolis.jpg/revision/latest?cb=20231227160705"
+  },
+  {
+    "id": "indianapolis-motor-speedway-grand-prix-circuit-alt",
+    "name": "Indianapolis Motor Speedway",
+    "configuration": "Grand Prix Circuit - Alt",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/f/f1/FM5_Indianapolis.jpg/revision/latest?cb=20231227160705"
+  },
+  {
+    "id": "indianapolis-motor-speedway-grand-prix-circuit-classic",
+    "name": "Indianapolis Motor Speedway",
+    "configuration": "Grand Prix Circuit - Classic",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/f/f1/FM5_Indianapolis.jpg/revision/latest?cb=20231227160705"
+  },
+  {
+    "id": "indianapolis-motor-speedway-the-brickyard-speedway",
+    "name": "Indianapolis Motor Speedway",
+    "configuration": "The Brickyard Speedway",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/f/f1/FM5_Indianapolis.jpg/revision/latest?cb=20231227160705"
+  },
+  {
+    "id": "kyalami-grand-prix-circuit-grand-prix-circuit",
+    "name": "Kyalami Grand Prix Circuit",
+    "configuration": "Grand Prix Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/84/FM23_Kyalami_Promo_2.jpg/revision/latest?cb=20231230150708"
+  },
+  {
+    "id": "le-mans-circuit-international-de-la-sarthe-bugatti-circuit",
+    "name": "Le Mans - Circuit International de la Sarthe",
+    "configuration": "Bugatti Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/8e/FM5_Le_Mans.jpg/revision/latest?cb=20240107171510"
+  },
+  {
+    "id": "le-mans-circuit-international-de-la-sarthe-full-circuit",
+    "name": "Le Mans - Circuit International de la Sarthe",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/8e/FM5_Le_Mans.jpg/revision/latest?cb=20240107171510"
+  },
+  {
+    "id": "le-mans-circuit-international-de-la-sarthe-old-mulsanne-circuit",
+    "name": "Le Mans - Circuit International de la Sarthe",
+    "configuration": "Old Mulsanne Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/8e/FM5_Le_Mans.jpg/revision/latest?cb=20240107171510"
+  },
+  {
+    "id": "lime-rock-park-full-circuit",
+    "name": "Lime Rock Park",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/6/60/FM23_Limerock_Park_Promo_1.jpg/revision/latest?cb=20241211035533"
+  },
+  {
+    "id": "lime-rock-park-full-circuit-alt",
+    "name": "Lime Rock Park",
+    "configuration": "Full Circuit Alt",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/6/60/FM23_Limerock_Park_Promo_1.jpg/revision/latest?cb=20241211035533"
+  },
+  {
+    "id": "lime-rock-park-south-chicane",
+    "name": "Lime Rock Park",
+    "configuration": "South Chicane",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/6/60/FM23_Limerock_Park_Promo_1.jpg/revision/latest?cb=20241211035533"
+  },
+  {
+    "id": "lime-rock-park-west-chicane",
+    "name": "Lime Rock Park",
+    "configuration": "West Chicane",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/6/60/FM23_Limerock_Park_Promo_1.jpg/revision/latest?cb=20241211035533"
+  },
+  {
+    "id": "maple-valley-raceway-full-circuit-br-small-reverse-small",
+    "name": "Maple Valley Raceway",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/4/47/Maple_Valley_FM23_Logo.png/revision/latest?cb=20241018173852"
+  },
+  {
+    "id": "maple-valley-raceway-short-circuit-br-small-reverse-small",
+    "name": "Maple Valley Raceway",
+    "configuration": "Short Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/4/47/Maple_Valley_FM23_Logo.png/revision/latest?cb=20241018173852"
+  },
+  {
+    "id": "michelin-raceway-road-atlanta-club-circuit",
+    "name": "Michelin Raceway Road Atlanta",
+    "configuration": "Club Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/3/39/FM23_Road_Atlanta_Promo.jpg/revision/latest?cb=20251208082739"
+  },
+  {
+    "id": "michelin-raceway-road-atlanta-full-circuit",
+    "name": "Michelin Raceway Road Atlanta",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/3/39/FM23_Road_Atlanta_Promo.jpg/revision/latest?cb=20251208082739"
+  },
+  {
+    "id": "mid-ohio-sports-car-course-short-circuit",
+    "name": "Mid-Ohio Sports Car Course",
+    "configuration": "Short Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3c/FM23_MidOhio_Screenshot1.jpg/revision/latest?cb=20250123175112"
+  },
+  {
+    "id": "mid-ohio-sports-car-course-sports-car-circuit",
+    "name": "Mid-Ohio Sports Car Course",
+    "configuration": "Sports Car Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3c/FM23_MidOhio_Screenshot1.jpg/revision/latest?cb=20250123175112"
+  },
+  {
+    "id": "mount-panorama-circuit-full-circuit",
+    "name": "Mount Panorama Circuit",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/80/FM23_Bathurst_Promo_1.jpg/revision/latest?cb=20241211035319"
+  },
+  {
+    "id": "mugello-circuit-club-circuit",
+    "name": "Mugello Circuit",
+    "configuration": "Club Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/1/11/FM23_Mugello_Circuit_Promo.jpg/revision/latest?cb=20251208081048"
+  },
+  {
+    "id": "mugello-circuit-full-circuit",
+    "name": "Mugello Circuit",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/1/11/FM23_Mugello_Circuit_Promo.jpg/revision/latest?cb=20251208081048"
+  },
+  {
+    "id": "n-rburgring-full-circuit",
+    "name": "Nürburgring",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/FM23_Nordschleife_Promo.jpg/revision/latest?cb=20241212033138"
+  },
+  {
+    "id": "n-rburgring-gp-circuit",
+    "name": "Nürburgring",
+    "configuration": "GP Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/FM23_Nordschleife_Promo.jpg/revision/latest?cb=20241212033138"
+  },
+  {
+    "id": "n-rburgring-nordschleife",
+    "name": "Nürburgring",
+    "configuration": "Nordschleife",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/FM23_Nordschleife_Promo.jpg/revision/latest?cb=20241212033138"
+  },
+  {
+    "id": "n-rburgring-sprint-circuit",
+    "name": "Nürburgring",
+    "configuration": "Sprint Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/09/FM23_Nordschleife_Promo.jpg/revision/latest?cb=20241212033138"
+  },
+  {
+    "id": "road-america-east-route",
+    "name": "Road America",
+    "configuration": "East Route",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/b/bc/FM23_RoadAmerica.jpg/revision/latest?cb=20231227193532"
+  },
+  {
+    "id": "road-america-full-circuit",
+    "name": "Road America",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/b/bc/FM23_RoadAmerica.jpg/revision/latest?cb=20231227193532"
+  },
+  {
+    "id": "road-america-full-circuit-alt",
+    "name": "Road America",
+    "configuration": "Full Circuit - Alt",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/b/bc/FM23_RoadAmerica.jpg/revision/latest?cb=20231227193532"
+  },
+  {
+    "id": "road-america-west-route",
+    "name": "Road America",
+    "configuration": "West Route",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/b/bc/FM23_RoadAmerica.jpg/revision/latest?cb=20231227193532"
+  },
+  {
+    "id": "road-america-west-route-alt",
+    "name": "Road America",
+    "configuration": "West Route - Alt",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/b/bc/FM23_RoadAmerica.jpg/revision/latest?cb=20231227193532"
+  },
+  {
+    "id": "sebring-international-raceway-full-circuit",
+    "name": "Sebring International Raceway",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/03/FM23_Sebring_Promo.jpg/revision/latest?cb=20241221173413"
+  },
+  {
+    "id": "sebring-international-raceway-short-circuit",
+    "name": "Sebring International Raceway",
+    "configuration": "Short Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/03/FM23_Sebring_Promo.jpg/revision/latest?cb=20241221173413"
+  },
+  {
+    "id": "silverstone-circuit-grand-prix-circuit",
+    "name": "Silverstone Circuit",
+    "configuration": "Grand Prix Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/80/FM23_Silverstone_Circuit_Promo.jpg/revision/latest?cb=20251208083253"
+  },
+  {
+    "id": "silverstone-circuit-international-circuit",
+    "name": "Silverstone Circuit",
+    "configuration": "International Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/80/FM23_Silverstone_Circuit_Promo.jpg/revision/latest?cb=20251208083253"
+  },
+  {
+    "id": "silverstone-circuit-national-circuit",
+    "name": "Silverstone Circuit",
+    "configuration": "National Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/8/80/FM23_Silverstone_Circuit_Promo.jpg/revision/latest?cb=20251208083253"
+  },
+  {
+    "id": "sunset-peninsula-raceway-club-circuit",
+    "name": "Sunset Peninsula Raceway",
+    "configuration": "Club Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3f/FM23_Sunset_Peninsula_Track_Logo.png/revision/latest?cb=20241018173621"
+  },
+  {
+    "id": "sunset-peninsula-raceway-full-circuit",
+    "name": "Sunset Peninsula Raceway",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3f/FM23_Sunset_Peninsula_Track_Logo.png/revision/latest?cb=20241018173621"
+  },
+  {
+    "id": "sunset-peninsula-raceway-speedway",
+    "name": "Sunset Peninsula Raceway",
+    "configuration": "Speedway",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3f/FM23_Sunset_Peninsula_Track_Logo.png/revision/latest?cb=20241018173621"
+  },
+  {
+    "id": "suzuka-circuit-east-circuit",
+    "name": "Suzuka Circuit",
+    "configuration": "East Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/c8/FM23_Suzuka_Circuit_Promo_1.jpg/revision/latest?cb=20251208083734"
+  },
+  {
+    "id": "suzuka-circuit-full-circuit",
+    "name": "Suzuka Circuit",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/c8/FM23_Suzuka_Circuit_Promo_1.jpg/revision/latest?cb=20251208083734"
+  },
+  {
+    "id": "suzuka-circuit-west-circuit",
+    "name": "Suzuka Circuit",
+    "configuration": "West Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/c/c8/FM23_Suzuka_Circuit_Promo_1.jpg/revision/latest?cb=20251208083734"
+  },
+  {
+    "id": "virginia-international-raceway-full",
+    "name": "Virginia International Raceway",
+    "configuration": "Full",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/0a/FM23_VIR_Promo_1.jpg/revision/latest?cb=20251208083923"
+  },
+  {
+    "id": "virginia-international-raceway-grand-east",
+    "name": "Virginia International Raceway",
+    "configuration": "Grand East",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/0a/FM23_VIR_Promo_1.jpg/revision/latest?cb=20251208083923"
+  },
+  {
+    "id": "virginia-international-raceway-grand-west",
+    "name": "Virginia International Raceway",
+    "configuration": "Grand West",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/0a/FM23_VIR_Promo_1.jpg/revision/latest?cb=20251208083923"
+  },
+  {
+    "id": "virginia-international-raceway-north-course",
+    "name": "Virginia International Raceway",
+    "configuration": "North Course",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/0a/FM23_VIR_Promo_1.jpg/revision/latest?cb=20251208083923"
+  },
+  {
+    "id": "virginia-international-raceway-south-course",
+    "name": "Virginia International Raceway",
+    "configuration": "South Course",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/0/0a/FM23_VIR_Promo_1.jpg/revision/latest?cb=20251208083923"
+  },
+  {
+    "id": "watkins-glen-international-full-circuit",
+    "name": "Watkins Glen International",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/4/4a/FM23_Watkins_Glen.jpg/revision/latest?cb=20231227145730"
+  },
+  {
+    "id": "watkins-glen-international-full-circuit-alt",
+    "name": "Watkins Glen International",
+    "configuration": "Full Circuit - Alt",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/4/4a/FM23_Watkins_Glen.jpg/revision/latest?cb=20231227145730"
+  },
+  {
+    "id": "watkins-glen-international-short-circuit",
+    "name": "Watkins Glen International",
+    "configuration": "Short Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/4/4a/FM23_Watkins_Glen.jpg/revision/latest?cb=20231227145730"
+  },
+  {
+    "id": "watkins-glen-international-short-circuit-alt",
+    "name": "Watkins Glen International",
+    "configuration": "Short Circuit - Alt",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/4/4a/FM23_Watkins_Glen.jpg/revision/latest?cb=20231227145730"
+  },
+  {
+    "id": "weathertech-raceway-laguna-seca-full-circuit",
+    "name": "WeatherTech Raceway Laguna Seca",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/6/6b/FM23_Laguna_Seca_Promo.jpg/revision/latest?cb=20241211035817"
+  },
+  {
+    "id": "weathertech-raceway-laguna-seca-short-circuit",
+    "name": "WeatherTech Raceway Laguna Seca",
+    "configuration": "Short Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/6/6b/FM23_Laguna_Seca_Promo.jpg/revision/latest?cb=20241211035817"
+  },
+  {
+    "id": "yas-marina-circuit-corkscrew",
+    "name": "Yas Marina Circuit",
+    "configuration": "Corkscrew",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/d/dc/FM23_Yas_Marina_Track_Logo.png/revision/latest?cb=20241018174525"
+  },
+  {
+    "id": "yas-marina-circuit-full-circuit",
+    "name": "Yas Marina Circuit",
+    "configuration": "Full Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/d/dc/FM23_Yas_Marina_Track_Logo.png/revision/latest?cb=20241018174525"
+  },
+  {
+    "id": "yas-marina-circuit-north-circuit",
+    "name": "Yas Marina Circuit",
+    "configuration": "North Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/d/dc/FM23_Yas_Marina_Track_Logo.png/revision/latest?cb=20241018174525"
+  },
+  {
+    "id": "yas-marina-circuit-north-corkscrew",
+    "name": "Yas Marina Circuit",
+    "configuration": "North Corkscrew",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/d/dc/FM23_Yas_Marina_Track_Logo.png/revision/latest?cb=20241018174525"
+  },
+  {
+    "id": "yas-marina-circuit-south-circuit",
+    "name": "Yas Marina Circuit",
+    "configuration": "South Circuit",
+    "thumbnailUrl": "https://static.wikia.nocookie.net/forzamotorsport/images/d/dc/FM23_Yas_Marina_Track_Logo.png/revision/latest?cb=20241018174525"
+  }
+]
