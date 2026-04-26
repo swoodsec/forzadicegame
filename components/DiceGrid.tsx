@@ -1,6 +1,5 @@
 "use client";
 
-import { motion } from "framer-motion";
 import CarCard from "./CarCard";
 import TrackCard from "./TrackCard";
 import type { Car, Track } from "@/types";
@@ -27,12 +26,18 @@ const DICE_FACES = [
     <span className="w-2.5 h-2.5 rounded-full bg-white" />
   </div>,
   // ⚄ 5 dots
-  <div key={5} className="grid grid-cols-2 gap-1 p-1 h-full relative">
-    <span className="w-2.5 h-2.5 rounded-full bg-white" />
-    <span className="w-2.5 h-2.5 rounded-full bg-white" />
-    <span className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-2.5 h-2.5 rounded-full bg-white" />
-    <span className="w-2.5 h-2.5 rounded-full bg-white" />
-    <span className="w-2.5 h-2.5 rounded-full bg-white" />
+  <div key={5} className="flex flex-col justify-between p-1 h-full">
+    <div className="flex justify-between">
+      <span className="w-2.5 h-2.5 rounded-full bg-white" />
+      <span className="w-2.5 h-2.5 rounded-full bg-white" />
+    </div>
+    <div className="flex justify-center">
+      <span className="w-2.5 h-2.5 rounded-full bg-white" />
+    </div>
+    <div className="flex justify-between">
+      <span className="w-2.5 h-2.5 rounded-full bg-white" />
+      <span className="w-2.5 h-2.5 rounded-full bg-white" />
+    </div>
   </div>,
   // ⚅ 6 dots
   <div key={6} className="grid grid-cols-2 gap-1 p-1 h-full">
@@ -45,10 +50,9 @@ const DICE_FACES = [
 interface Props {
   cars: Car[];
   tracks: Track[];
-  lastRoll: number | null;
 }
 
-export default function DiceGrid({ cars, tracks, lastRoll }: Props) {
+export default function DiceGrid({ cars, tracks }: Props) {
   if (cars.length < 6 || tracks.length < 6) {
     return (
       <div className="text-center text-zinc-500 py-12">
@@ -66,31 +70,18 @@ export default function DiceGrid({ cars, tracks, lastRoll }: Props) {
         const num = i + 1;
         const car = cars[i];
         const track = tracks[i];
-        const isResult = lastRoll === num;
 
         return (
-          <motion.div
+          <div
             key={num}
-            animate={isResult ? { scale: [1, 1.03, 1] } : { scale: 1 }}
-            transition={{ duration: 0.4 }}
-            className={`rounded-xl border p-3 flex flex-col gap-2 transition-colors ${
-              isResult
-                ? "border-yellow-500 bg-yellow-500/10 shadow-lg shadow-yellow-500/20"
-                : "border-zinc-800 bg-zinc-900/60"
-            }`}
+            className="rounded-xl border p-3 flex flex-col gap-2 border-zinc-800 bg-zinc-900/60"
           >
             {/* Dice face + number */}
             <div className="flex items-center gap-2">
-              <div
-                className={`w-10 h-10 rounded-lg flex-shrink-0 ${
-                  isResult ? "bg-yellow-500" : "bg-zinc-700"
-                }`}
-              >
+              <div className="w-10 h-10 rounded-lg flex-shrink-0 bg-zinc-700">
                 {DICE_FACES[i]}
               </div>
-              <span
-                className={`text-lg font-bold ${isResult ? "text-yellow-400" : "text-zinc-400"}`}
-              >
+              <span className="text-lg font-bold text-zinc-400">
                 {num}
               </span>
             </div>
@@ -100,7 +91,7 @@ export default function DiceGrid({ cars, tracks, lastRoll }: Props) {
 
             {/* Track */}
             <TrackCard track={track} compact />
-          </motion.div>
+          </div>
         );
       })}
     </div>

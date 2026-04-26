@@ -180,7 +180,6 @@ export default function AdminView() {
             <DiceGrid
               cars={gameState.selectedCars}
               tracks={gameState.selectedTracks}
-              lastRoll={gameState.lastRoll}
             />
           </>
         )}

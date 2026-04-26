@@ -45,7 +45,7 @@ export default function ResultBanner({ roll, car, track }: Props) {
             )}
           </div>
           <div>
-            <p className="font-bold text-lg text-zinc-100">{car.name}</p>
+            <p className="font-bold text-lg text-zinc-100">{car.year} {car.name}</p>
             <div className="flex items-center gap-2 mt-1">
               <span className="text-sm font-bold text-yellow-400">{car.class} {car.pi} PI</span>
               <span className={`text-xs px-2 py-0.5 rounded font-bold text-white ${DRIVETRAIN_COLORS[car.drivetrain] ?? "bg-zinc-600"}`}>

@@ -43,7 +43,7 @@ export default function CarCard({ car, compact = false }: Props) {
           )}
         </div>
         <div className="min-w-0 flex-1">
-          <p className="text-xs font-semibold truncate text-zinc-100">{car.name}</p>
+          <p className="text-xs font-semibold truncate text-zinc-100">{car.year} {car.name}</p>
           <div className="flex items-center gap-1 mt-0.5">
             <span className={`text-xs px-1 rounded font-bold text-white ${CLASS_COLORS[car.class] ?? "bg-zinc-600"}`}>
               {car.class} {car.pi}
@@ -73,7 +73,7 @@ export default function CarCard({ car, compact = false }: Props) {
         )}
       </div>
       <div className="p-3 flex flex-col gap-1.5">
-        <p className="text-sm font-bold text-zinc-100 leading-tight">{car.name}</p>
+        <p className="text-sm font-bold text-zinc-100 leading-tight">{car.year} {car.name}</p>
         <div className="flex items-center gap-1.5">
           <span className={`text-xs px-1.5 py-0.5 rounded font-bold text-white ${CLASS_COLORS[car.class] ?? "bg-zinc-600"}`}>
             {car.class} {car.pi}

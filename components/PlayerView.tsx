@@ -64,7 +64,6 @@ export default function PlayerView() {
         <DiceGrid
           cars={state.selectedCars}
           tracks={state.selectedTracks}
-          lastRoll={state.lastRoll}
         />
       ) : (
         <div className="text-center text-zinc-600 py-16">
